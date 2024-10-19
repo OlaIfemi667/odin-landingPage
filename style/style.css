@@ -12,7 +12,11 @@ header{
     font-weight: 900;
 }
 #main_nav {
-    
+    display: flex;
+
+}
+.nav_link{
+    display: flex;
 }
 #hero_second_text, .nav_link {
     size: 18px;
